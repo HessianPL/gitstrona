@@ -1,0 +1,9 @@
+diff --git a/witaj.txt b/witaj.txt
+index 1772837..8f47667 100644
+--- a/witaj.txt
++++ b/witaj.txt
+@@ -1 +1,3 @@
+ Pierwszy plik!
++
++Trololo
+\ No newline at end of file
