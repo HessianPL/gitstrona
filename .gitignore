@@ -1,2 +1,8 @@
+### Ignore all files and subfolders in logs/ folder
 logs/**/*
+
+### Ignore all temporary files
 .temp
+
+### Ignore all configuration files
+.config
